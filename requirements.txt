@@ -1,1 +1,2 @@
-geopy
+geopy~=2.4.1
+geonamescache~=2.0.0
